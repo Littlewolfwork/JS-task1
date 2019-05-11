@@ -7,4 +7,4 @@ JS intern task1
 ----------------|----------------------
 index.html      | Основной файл, открывать его в браузере
 style.css       | файл, содержащий CSS
-normalize.css   | Нормалайзер CSS от Nicolas Gallagher
+
